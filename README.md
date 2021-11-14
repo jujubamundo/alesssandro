@@ -1,5 +1,5 @@
 ### oii
 
-- estudando na Rocketseat
+- estudante na Rocketseat
 - estudando HTML, CSS, JAVASCRIPT, REACT
 - meu contato: alessandro.gnf@outlook.com
